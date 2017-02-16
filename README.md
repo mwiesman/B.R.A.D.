@@ -40,7 +40,7 @@ MIDI device to your machine.
 Mapping a Keyboard Shortcut to Start the Application 
 ------------------------
 #### OSX ####
-  Following the tutorial on this forum: https://computers.tutsplus.com/tutorials/how-to-launch-any-app-with-a-keyboard-shortcut--mac-31463
+* Following the tutorial on this forum: https://computers.tutsplus.com/tutorials/how-to-launch-any-app-with-a-keyboard-shortcut--mac-31463
 #### Windows ####
 
 
