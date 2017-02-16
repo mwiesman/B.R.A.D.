@@ -26,9 +26,11 @@ In order to get the most out of you very own B.R.A.D. plug-in:
 
 
 ----------------------
-Mapping a Keyboard Shortcut to start the Application 
+Mapping a Keyboard Shortcut to Start the Application 
 ------------------------
-
+1. OSX
+  Following the tutorial on this forum: https://computers.tutsplus.com/tutorials/how-to-launch-any-app-with-a-keyboard-shortcut--mac-31463
+2. Windows
 
 
 ----------------------
