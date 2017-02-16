@@ -12,9 +12,9 @@ Setting Up
 ```
 
 -------------------------------
-Launching the Spotify Web App
+Launching the B.R.A.D. plug-in sampler
 ---------------------------------
-To run the playlist application:
+To run the application:
 ```
 1. 
 2. 
