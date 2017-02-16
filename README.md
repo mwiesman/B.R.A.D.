@@ -26,6 +26,12 @@ In order to get the most out of you very own B.R.A.D. plug-in:
 
 
 ----------------------
+Mapping a Keyboard Shortcut to start the Application 
+------------------------
+
+
+
+----------------------
 Moving Forward
 ------------------------
 For those interested in extending or modifying the features of this wonderful app:
