@@ -4,7 +4,7 @@ Brad's Readily Accessible DAW
 ----------------------
 Intro
 ----------------------
-In order to help our friend Brad reconnect with his musical skills, we developed a plug-in that can be run as a standalone musical interface. The intent of this application is to provide an intuitive and user-friendly interface that allows aspiring musicians to access a variety of audio recording and editing features. The plug-in was built using C++ and HISE/JUCE.
+In order to help our friend Brad reconnect with his musical skills, we developed a plug-in that can be run as a standalone musical interface. The intent of this application is to provide an intuitive and user-friendly interface that allows aspiring musicians to access a variety of audio recording and editing features. The plug-in was built using C++ and the HISE/JUCE framework.
 
 
 -------------------------------
