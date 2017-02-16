@@ -12,14 +12,15 @@ Getting Started
 ---------------------------------
 To launch the B.R.A.D. plug-in sampler:
 ```
-1. Get the code: clone or download our git hub repo to your local machine.  
-Save it somewhere you will be able to access it.
+1. Get the code: clone or download our git hub repo to your local machine. Save it somewhere you  
+will be able to access it.
 2. Open the app: from the main project folder, launch the file 'Tutorial.app'. 
 3. Find samples: upon the initial launch, the app will prompt you to locate the Samples folder.  
-Click "Choose Sample Folder", navigate to the project folder, open 'HISE', select 'Samples, and then click 'Open'.
-(Trouble-shooting: if you run into a subsequent error message or are unable to hear any audio,  
-try closing and reopening the app.)
-4. Play away!: either click on the virtual keyboard using a mouse or press keyboard buttons to create music.
+Click "Choose Sample Folder", navigate to the project folder, open 'HISE', select 'Samples, and then  
+click 'Open'. (Trouble-shooting: if you run into a subsequent error message or are unable to hear  
+any audio, try closing and reopening the app.)
+4. Play away!: either click on the virtual keyboard using a mouse or press keyboard buttons to  
+create music.
 ```
 
 ----------------------
@@ -30,7 +31,8 @@ In order to get the most out of you very own B.R.A.D. plug-in:
 1. Reverb: drag this knob to a higher value to increase reverb or "echo" effect.
 2. octaveTranspose: click this button to play on a higher octave.
 3. Volume: the volume to your input should be visible in the two bars in the upper right hand corner.
-4. MIDI Activity LED: a small icon in the upper left-hand corner should light up upon connecting a MIDI device to your machine.
+4. MIDI Activity LED: a small icon in the upper left-hand corner should light up upon connecting a  
+MIDI device to your machine.
 ```
 
 
@@ -47,8 +49,10 @@ Moving Forward
 ------------------------
 For those interested in extending or modifying the features of this wonderful app:
 ```
-1. Download HISE and check out http://hise.audio to learn about this open-source framework for sample-based instruments.
-2. If you are interested in JUCE, visit https://www.juce.com to learn about this powerful cross-platform C++ framework.
+1. Download HISE and check out http://hise.audio to learn about this open-source framework for  
+sample-based instruments.
+2. If you are interested in JUCE, visit https://www.juce.com to learn about this powerful  
+cross-platform C++ framework.
 ```
 
 ----------------------
