@@ -30,6 +30,15 @@ In order to get the most out of you very own B.R.A.D. plug-in:
 4. MIDI Activity LED: a small icon in the upper left-hand corner should light up upon connecting a MIDI device to your machine.
 ```
 
+
+----------------------
+Mapping a Keyboard Shortcut to Start the Application 
+------------------------
+#### OSX ####
+  Following the tutorial on this forum: https://computers.tutsplus.com/tutorials/how-to-launch-any-app-with-a-keyboard-shortcut--mac-31463
+#### Windows ####
+
+
 ----------------------
 Moving Forward
 ------------------------
