@@ -4,7 +4,7 @@ Brad's Readily Accessible DAW
 ----------------------
 Intro
 ----------------------
-In order to help our friend Brad reconnect with his musical skills, we developed a plug-in that can be run as a standalone musical interface. The intent of this application is to provide an intuitive and user-friendly interface that allows aspiring musicians to access a variety of audio recording and editing features. The plug-in was built using C++ and the HISE/JUCE framework.
+In order to help our friend Brad reconnect with his musical skills, we developed a plug-in that can be run as a standalone musical interface. The intent of this application is to provide an intuitive and user-friendly interface that allows aspiring musicians to access a variety of audio playing, recording and editing features. The plug-in was built using C++ and JS and the HISE/JUCE framework.
 
 
 -------------------------------
@@ -29,20 +29,20 @@ Utilizing the Plug-in
 In order to get the most out of you very own B.R.A.D. plug-in:
 ```
 1. Reverb: drag this knob to a higher value to increase reverb or "echo" effect.
-2. octaveTranspose: click this button to play on a higher octave.
+2. Octave Control: click this button to play on a higher octave.
 3. Volume: the volume to your input should be visible in the two bars in the upper right hand corner.
 4. MIDI Activity LED: a small icon in the upper left-hand corner should light up upon connecting a  
-MIDI device to your machine.
+MIDI device to your machine (Coming soon).
 ```
 
 
-----------------------
+------------------------------------------------------
 Mapping a Keyboard Shortcut to Start the Application 
-------------------------
+--------------------------------------------------------
 #### OSX ####
 * Following the tutorial on this forum: https://computers.tutsplus.com/tutorials/how-to-launch-any-app-with-a-keyboard-shortcut--mac-31463
 #### Windows ####
-
+(Coming soon)
 
 ----------------------
 Moving Forward
@@ -58,5 +58,6 @@ cross-platform C++ framework.
 ----------------------
 Alpha Release Version Notes
 ------------------------
+(Coming Soon)
 
 :shipit:
