@@ -41,6 +41,7 @@ Mapping a Keyboard Shortcut to Start the Application
 --------------------------------------------------------
 #### OSX ####
 * Following the tutorial on this forum: https://computers.tutsplus.com/tutorials/how-to-launch-any-app-with-a-keyboard-shortcut--mac-31463
+
 #### Windows ####
 (Coming soon)
 
@@ -54,6 +55,8 @@ sample-based instruments.
 2. If you are interested in JUCE, visit https://www.juce.com to learn about this powerful  
 cross-platform C++ framework.
 ```
+Here's our Simplified Tutorial: https://docs.google.com/a/umich.edu/document/d/1BVbC6Hh473g1b4DJ1ut15JpM-nIWao92m4Su1pFZFy8/edit?usp=sharing
+
 
 ----------------------
 Alpha Release Version Notes
