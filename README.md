@@ -45,6 +45,11 @@ Mapping a Keyboard Shortcut to Start the Application
 #### Windows ####
 (Coming soon)
 
+----------
+Known Bug
+----------
+* Currently, there are 64 keys (Low A to C5) available to be played because we could not find samples online for all 88 keys. For the next release we will alter the notes in order to complete the final two octaves of the keyboard. For now, the piano is fully functional without the aformentioned bounds.
+
 ----------------------
 Moving Forward
 ------------------------
