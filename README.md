@@ -55,7 +55,7 @@ sample-based instruments.
 2. If you are interested in JUCE, visit https://www.juce.com to learn about this powerful  
 cross-platform C++ framework.
 ```
-3. Here's our Tutorial: https://docs.google.com/a/umich.edu/document/d/1BVbC6Hh473g1b4DJ1ut15JpM-nIWao92m4Su1pFZFy8/edit?usp=sharing
+Here's our Simplified Tutorial: https://docs.google.com/a/umich.edu/document/d/1BVbC6Hh473g1b4DJ1ut15JpM-nIWao92m4Su1pFZFy8/edit?usp=sharing
 
 
 ----------------------
