@@ -62,6 +62,12 @@ cross-platform C++ framework.
 ```
 Here's our Simplified Tutorial: https://docs.google.com/a/umich.edu/document/d/1BVbC6Hh473g1b4DJ1ut15JpM-nIWao92m4Su1pFZFy8/edit?usp=sharing
 
+----------------------
+Combining with Team Piayes
+------------------------
+In the Beta release we have aimed to combine our groups together in order to give Brad a better playing experience. After working and learning our systems for the alpha release we met up and made the decision that it was best for Team B.R.A.D. to take their ideas and their code and integrate it into Team Piayes' project (and git hub repo) since going the other way would have been substantially more difficult and would only result in a slightly better design. We felt that in the end our product should be focused on creating something to help Brad play again and not on splitting things in such a way that each groups contributions are easily identifiable all at the cost of making it harder to use. <br> 
+While Team Piayes will focus on the editing features outlined , Team B.R.A.D. will focus on the "live" playing aspects, including volume control, octave switching, and chord triggering. <br>
+For more information on Team Piayes (made up of Akansha Agarwal, Lillian Seo, Pedro Fialho and Yelena Pham) see the original github repo: https://github.com/lilseo/Piayes . All foreseeable development will be done through the Piayes repo. Thank you. <br>
 
 ----------------------
 Alpha Release Version Notes
